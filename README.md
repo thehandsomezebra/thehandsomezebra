@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![thehandsomezebra's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehandsomezebra)](https://github.com/anuraghazra/github-readme-stats)
-
+[![thehandsomezebra's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehandsomezebra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

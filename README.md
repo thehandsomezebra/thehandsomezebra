@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![thehandsomezebra's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehandsomezebra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <hr/>
 
@@ -28,10 +26,10 @@ Here are some ideas to get you started:
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=thehandsomezebra&hide_border=true&theme=nightowl" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=thehandsomezebra&hide_border=true&theme=radical" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=thehandsomezebra&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehandsomezebra&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=thehandsomezebra&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehandsomezebra&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
     </p>
 
 

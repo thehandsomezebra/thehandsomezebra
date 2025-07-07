@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-<a href="https://ko-fi.com/handsomezebra" target="_blank"><img src="kofi.png" /></a>
-<a rel="me" href="https://defcon.social/@handsomezebra" target="_blank"><img src="mastodon.png" /></a>
-<a href="https://www.linkedin.com/in/stephanielage/" target="_blank"><img src="linkedin.png" /></a>
-<a href="https://dev.to/thehandsomezebra/" target="_blank"><img src="devto.png" /></a>
+<a href="https://ko-fi.com/handsomezebra" target="_blank"><img src="kofi.png" width="24px" height="24px" /></a>
+<a rel="me" href="https://defcon.social/@handsomezebra" target="_blank"><img src="mastodon.png" width="24px" height="24px" /></a>
+<a href="https://www.linkedin.com/in/stephanielage/" target="_blank"><img src="linkedin.png" width="24px" height="24px" /></a>
+<a href="https://dev.to/thehandsomezebra/" target="_blank"><img src="devto.png" width="24px" height="24px" /></a>
 </p>
 
 

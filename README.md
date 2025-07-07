@@ -24,7 +24,7 @@
   <summary><b>💻 Skills & Technologies</b></summary>
   
 
-<b>☁️ Cloud & DevOps</b>
+  <summary><b>☁️ Cloud & DevOps</b></summary>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Cloud Foundry](https://img.shields.io/badge/CLOUD%20FOUNDRY-0C5D9C.svg?&style=flat&logo=cloud-foundry&logoColor=white)&nbsp;

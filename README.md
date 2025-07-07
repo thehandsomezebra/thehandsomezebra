@@ -1,3 +1,5 @@
+![banner](banner.png)
+
 ### Hi there 👋
 
 <a rel="me" href="https://defcon.social/@handsomezebra">Mastodon</a>

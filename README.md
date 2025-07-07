@@ -22,7 +22,7 @@
 
 <details>
   <summary><b>💻 Skills & Technologies</b></summary>
-  
+  <br />
 
   <b>☁️ Cloud & DevOps</b>
 

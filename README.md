@@ -72,7 +72,7 @@
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3.svg?&style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)&nbsp;
-![Electron](https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white)&nbsp
+![Electron](https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white)&nbsp;
 
 
   <summary><b>🏠 Home Lab & Self-Hosting</b></summary>

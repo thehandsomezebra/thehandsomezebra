@@ -4,11 +4,11 @@
 
 
 <p align="center">
-<h2><b>Handsome Zebra</b></h2>
+<b>Handsome Zebra</b>
 </p>
 
 <p align="center">
-<h3><b>Lead DevOps Engineer</b></h3>
+<b>Lead DevOps Engineer</b>
 </p>
 
 <p align="center">
